@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
 	<metadata>
 		<id>AlbanianXrm.Demo.Source</id>
-		<version>1.0.0</version>
+		<version>1.0.1</version>
 		<title>AlbanianXrm.Demo.Source</title>
 		<authors>AlbanianXrm</authors>
 		<owners>AlbanianXrm</owners>

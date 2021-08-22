@@ -4,7 +4,7 @@
     {
         public string Greet()
         {
-            return "Hello from Source v1";
+            return "Hello from Source v0";
         }
     }
 }

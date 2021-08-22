@@ -4,7 +4,7 @@
     {
         public string Greet()
         {
-            return "Hello from Build v0";
+            return "Hello from Build v1";
         }
     }
 }
