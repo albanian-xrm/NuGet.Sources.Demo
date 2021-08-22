@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+	<metadata>
+		<id>AlbanianXrm.Demo.Source</id>
+		<version>1.0.0</version>
+		<title>AlbanianXrm.Demo.Source</title>
+		<authors>AlbanianXrm</authors>
+		<owners>AlbanianXrm</owners>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>Shared Sources Project</description>
+		<copyright>AlbanianXrm (c) 2021</copyright>
+		<releaseNotes>
+			Proof of concept package using Shared Sources
+		</releaseNotes>
+		<license type="expression">MIT</license>
+		<tags>AlbanianXrm</tags>
+	</metadata>
+	<files>
+		<file src="*.cs" target="content\" />
+	</files>
+</package>
